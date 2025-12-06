@@ -69,6 +69,4 @@ The dataset contains **51,290 rows and 13 columns** including order details, cus
 - Creating meaningful KPIs and visualizations from raw e-commerce data.  
 - Building an interactive Excel dashboard to support business decision-making.  
 
----
 
-## Repository Structure
